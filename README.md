@@ -11,5 +11,4 @@
   Kaylee Vo
   Jay Windisch
 ## Project Docs
-  
-## Workflow
+  CS3354_P1_Campus_Map.pdf
