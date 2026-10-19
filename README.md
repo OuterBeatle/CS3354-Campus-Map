@@ -1,7 +1,7 @@
 # CS3354-Campus-Map
 
 ## Project Overview
-  Students, visitors, and other campus users often have trouble finding campus buildings and services, especially when they are unfamiliar with the campus. CampusCompass is a proposed web-based campus map that lets users search for campus locations by name or keyword, filter them by category (such as academic buildings, dining, parking, and libraries), and view details for each place. Walking directions and staff editing of location data are optional features, kept only if reliable data and a safe editing process are available.
+  The locating of facilities in campuses can be a challenge to students, visitors, and any other individual on campus who is not familiar with the campus layout. The CampusCompass is an online application for mapping purposes that will provide the users with the ability to locate various points within the campus through searching by name or keyword and selecting the facilities according to their category, such as academic buildings, restaurants, parking lots, and libraries. Walking directions and location data updates by the staff are optional.
 
 ## Team Members
   Riven Amdal
